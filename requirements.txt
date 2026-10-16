@@ -1,0 +1,5 @@
+pytest>=7.0
+
+# Optional, only needed if you use the matching example:
+# web3>=6.0                  # examples/base_sepolia_checkpoint.py
+# opentimestamps-client>=0.7 # examples/opentimestamps_checkpoint.py
